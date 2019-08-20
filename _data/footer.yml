@@ -1,0 +1,10 @@
+- links:
+    - name: About
+      link: /about/
+    - name: Contact
+      link: /contact/
+- links:
+    - name: LinkedIn
+      link: 'https://www.linkedin.com/company/edge-performance-analytics'
+      social_icon: LinkedIn
+      new_window: false
